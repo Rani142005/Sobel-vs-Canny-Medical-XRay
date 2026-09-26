@@ -9,6 +9,13 @@ The same preprocessing pipeline is applied to both methods, and their results ar
 > **Note:** This project focuses on edge/boundary detection. It is not a pneumonia diagnosis or classification model.
 
 ---
+## 👥 Team Members
+
+| Team Member | Contribution |
+|---|---|
+| **Rani Yadav** | Project Implementation, Python/OpenCV, Experiments & Results |
+| **Aditya Tarun J** | Project Report & Documentation |
+| **Vanam Divesh Reddy** | Presentation & PPT |
 
 ## 🎯 Objectives
 
